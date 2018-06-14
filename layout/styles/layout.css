@@ -1264,7 +1264,7 @@ table a,
 @media screen and (max-width:750px) {
 	.imgl,
 	.imgr {
-		display: inline-block;
+		display: flex;
 		float: none;
 		margin: 0 0 10px 0;
 	}
